@@ -1,0 +1,25 @@
+Wishes
+  About me
+  Social media + contacts
+  GET BOOKMARKS WITH USEFUL WEBSITES like
+      https://uniarea.com/forum/index.php
+      https://xkcd.com/
+      https://www.virustotal.com/gui/home/upload
+      https://alternativeto.net/
+  Line to follow mouse movement from last 3 sec.
+
+To-Do
+  Verify all headers
+  Get every tool that we have on sheets
+  Delete comments
+  Description (line 5 on index.html)
+  Change images on the back of index.html blocks
+
+Codes Notes
+
+
+To delete/review
+  hugoverissimo21.github.io/COMMENTS
+  src-index/imgs/bg-pattern.jpg (last seen on style.css)
+  src-index/script.js (last seen on index.html > head)
+  .html/REDIRECTS/remove .html after name
