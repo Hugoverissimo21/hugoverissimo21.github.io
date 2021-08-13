@@ -4,3 +4,20 @@ My investments + track projects news
 Upcoming projects + drops
 Stuff that sheets does
 -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>WAX</title>
+
+  <script src="./src-main/jquery.min.js"></script>
+</head>
+<body>
+  <div class="pasteHere">
+    <p id="fileTextHere"></p>
+  </div>
+  <script>
+    $('#fileTextHere').load("https://wax.alcor.exchange/api/markets/26");
+  </script>
+</body>
+</html>
