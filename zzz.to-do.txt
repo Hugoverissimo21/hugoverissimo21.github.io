@@ -22,4 +22,5 @@ To delete/review
   hugoverissimo21.github.io/COMMENTS
   src-index/imgs/bg-pattern.jpg (last seen on style.css)
   src-index/script.js (last seen on index.html > head)
-  .html/REDIRECTS/remove .html after name
+  .html/REDIRECTS/remove_.html_after_name
+  src-index/imgs/avatar-header.png (change ? last seens on index.html)
