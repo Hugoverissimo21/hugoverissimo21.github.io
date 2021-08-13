@@ -24,3 +24,4 @@ To delete/review
   src-index/script.js (last seen on index.html > head)
   .html/REDIRECTS/remove_.html_after_name
   src-index/imgs/avatar-header.png (change ? last seens on index.html)
+  index.html > change description on header
