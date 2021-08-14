@@ -13,7 +13,6 @@ Wishes
   Line to follow mouse movement from last 3 sec.
 
 To-Do
-  Verify all headers
   Get every tool that we have on sheets
   Delete comments
   Delete .html after redirections
