@@ -1,25 +1,13 @@
+Small Stuff
+  main
+      PNG for website preview
+  ./projects.html
+      change hyppy world image
+      get other projects and publish them
+  ./src-index/imgs/bg-pattern.jpg (from style.css) = delete (??)
+
+
+
 Wishes
-  About me
   Social media + contacts
-  GET BOOKMARKS WITH USEFUL WEBSITES like
-    <!--
-    Post photos + wallpapers + etc.
-    Websites + texts + etc.
-    -->
-      https://uniarea.com/forum/index.php
-      https://xkcd.com/
-      https://www.virustotal.com/gui/home/upload
-      https://alternativeto.net/
   Line to follow mouse movement from last 3 sec.
-  PNG for website preview
-
-To-Do
-  Get every tool that we have on sheets
-  Delete comments
-  Delete .html after redirections
-
-
-To delete/review
-  hugoverissimo21.github.io/COMMENTS
-  src-index/imgs/bg-pattern.jpg (last seen on style.css)
-  src-index/script.js (last seen on index.html > head)
