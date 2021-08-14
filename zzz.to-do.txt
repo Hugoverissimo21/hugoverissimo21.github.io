@@ -11,6 +11,7 @@ Wishes
       https://www.virustotal.com/gui/home/upload
       https://alternativeto.net/
   Line to follow mouse movement from last 3 sec.
+  PNG for website preview
 
 To-Do
   Get every tool that we have on sheets
