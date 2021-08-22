@@ -11,3 +11,6 @@ Small Stuff
 Wishes
   Social media + contacts
   Line to follow mouse movement from last 3 sec.
+  add puzzle to be solved to unlock portfolios
+    rotate some stuff or keys
+      pass or solve = 2108
