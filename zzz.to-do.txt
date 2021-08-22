@@ -18,3 +18,8 @@ Wishes
     maybe we should create a rep for each block
   Get the habit and do in this rep
     create a readme.md to track ideas and to-do
+  Backup everything
+    Delete everything + create readme.md
+      Commit to main " Restart "
+        Create index.html
+          Commit to main " Initial commit "
