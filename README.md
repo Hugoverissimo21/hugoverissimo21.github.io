@@ -7,6 +7,7 @@ Ideas:
 - [ ] Line to follow mouse movement from last 3 sec.
 - [ ] Warranties tracker
 - [ ] json as database for every html
+- [ ] Puzzle with 4 digit number to unlock portfolios
 
 To-do:
 - [ ] Get Projects and Bookmarks on this repository
