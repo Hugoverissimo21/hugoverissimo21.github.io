@@ -11,6 +11,6 @@ Ideas:
 
 To-do:
 - [ ] Get Projects and Bookmarks on this repository
-- [ ] Create repository to WAX Portoflio
 - [ ] Social media + contacts + other pages
+- [ ] ~~Create repository to WAX Portoflio~~
 - [X] Create repository to Steam Portoflio
