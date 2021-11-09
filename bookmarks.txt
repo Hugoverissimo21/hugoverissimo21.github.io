@@ -1,0 +1,18 @@
+<article>
+    <p><time>2021-08-15</time> <a href="https://hub.balena.io/">Programming project ideas</a></p>
+</article>
+<article>
+    <p><time>2021-08-12</time> <a href="https://dotandline.net/rick-and-morty-fan-art-gallery-1988-a355984f355b/">Rick and Morty - fan art gallery</a></p>
+</article>
+<article>
+    <p><time>2021-07-25</time> <a href="https://uniarea.com/">Portuguese university forum</a></p>
+</article>
+<article>
+    <p><time>2021-03-15</time> <a href="https://alternativeto.net/">Alternatives to paid softwares (crowdsourced)</a></p>
+</article>
+<article>
+    <p><time>2021-02-05</time> <a href="https://www.virustotal.com/gui/home/upload">Online virus scanner for suspicious files and URLs</a></p>
+</article>
+<article>
+    <p><time>2020-09-17</time> <a href="https://xkcd.com/">A webcomic of romance, sarcasm, math, and language</a></p>
+</article>
