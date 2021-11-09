@@ -10,7 +10,7 @@ Ideas:
 - [X] json as database for every html
 
 To-do:
-- [ ] Get Projects and Bookmarks on this repository
+- [ ] Get projects (Hugo > Projects) and bookmarks (Hugo > Bookmarks) on this repository
 - [ ] Social media + contacts + other pages
 - [ ] ~~Create repository to WAX Portoflio~~
 - [X] Create repository to Steam Portoflio
