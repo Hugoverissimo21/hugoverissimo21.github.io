@@ -1,4 +1,7 @@
 <article>
+    <p><time>2021-11-15</time> <a href="https://wax-tools.naw.io/">Some WAX tools made by <a href=https://twitter.com/NKCSS>@NKCSS</a></a></p>
+</article>
+<article>
     <p><time>2021-11-13</time> <a href="https://tornado.cash/">A fully decentralized protocol for private transactions on Ethereum.</a></p>
 </article>
 <article>
