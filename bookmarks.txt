@@ -1,4 +1,11 @@
 <article>
+    <p><time>2021-11-29</time> <a href="https://poocoin.app/">Check a token (from BSC or ETH) graph</a></p>
+</article>
+<article>
+    <p><time>2021-11-29</time> <a href="https://dxsale.app/">Airdrop, create, add liquidity for tokens from any chain</a></p>
+</article>
+
+<article>
     <p><time>2021-11-15</time> <a href="https://wax-tools.naw.io/">Some WAX tools made by <a href=https://twitter.com/NKCSS>@NKCSS</a></a></p>
 </article>
 <article>
