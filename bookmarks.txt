@@ -1,4 +1,13 @@
 <article>
+    <p><time>2021-12-17</time> <a href="https://winaero.com/winaero-tweaker/">Windows admin ("clean" and remove apps)</a></p>
+</article>
+<article>
+    <p><time>2021-12-17</time> <a href="https://caristaapp.com/vehicles">Source Code for cards (customize open and close and unlock features)</a></p>
+</article>
+<article>
+    <p><time>2021-12-17</time> <a href="https://youtu.be/y84JYx58vMo">Guide for Steam Profile customization</a></p>
+</article>
+<article>
     <p><time>2021-11-29</time> <a href="https://poocoin.app/">Check a token (from BSC or ETH) graph</a></p>
 </article>
 <article>
