@@ -1,4 +1,7 @@
 <article>
+    <p><time>2021-12-21</time> <a href="https://www.gucci.com/pt/en_gb/pr/jewelry-watches/silver-jewellery/silver-rings/guccighost-skull-ring-in-silver-p-455318J84000701">GG Ring</a></p>
+</article>
+<article>
     <p><time>2021-12-17</time> <a href="https://winaero.com/winaero-tweaker/">Windows admin ("clean" and remove apps)</a></p>
 </article>
 <article>
