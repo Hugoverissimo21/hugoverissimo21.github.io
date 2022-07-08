@@ -5,7 +5,7 @@ This repository is intended to be the land page of my personal website.
 
 Ideas:
 - [ ] Line to follow mouse movement from last 3 sec.
-- [ ] Warranties tracker
+- [ ] ~~Warranties tracker~~
 - [ ] Puzzle with 4 digit number to unlock portfolios
 - [X] json as database for every html
 
