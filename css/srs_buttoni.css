@@ -1,0 +1,59 @@
+.buttoni {
+    position: relative;
+    height: 36px; /* 30% smaller */
+    padding: 0 21.6px; /* 30% smaller */
+    border: 2px solid #000;
+    background: #e8e8e8;
+    user-select: none;
+    white-space: nowrap;
+    transition: all .05s linear;
+    font-family: inherit;
+    display: block;
+    margin: auto;
+}
+
+.buttoni:before, .buttoni:after {
+    content: "";
+    position: absolute;
+    background: #e8e8e8;
+    transition: all .2s linear;
+}
+
+.buttoni:before {
+    width: calc(100% + 3.6px); /* 30% smaller */
+    height: calc(100% - 9.6px); /* 30% smaller */
+    top: 4.8px; /* 30% smaller */
+    left: -1.8px; /* 30% smaller */
+}
+
+.buttoni:after {
+    width: calc(100% - 9.6px); /* 30% smaller */
+    height: calc(100% + 3.6px); /* 30% smaller */
+    top: -1.8px; /* 30% smaller */
+    left: 4.8px; /* 30% smaller */
+}
+
+.buttoni:hover {
+    cursor: crosshair;
+}
+
+.buttoni:active {
+    transform: scale(0.95);
+}
+
+.buttoni:hover:before {
+    height: calc(100% - 19.2px); /* 30% smaller */
+    top: 9.6px; /* 30% smaller */
+}
+
+.buttoni:hover:after {
+    width: calc(100% - 19.2px); /* 30% smaller */
+    left: 9.6px; /* 30% smaller */
+}
+
+.buttoni span {
+    font-size: 10.8px; /* Adjust the font size accordingly */
+    z-index: 3;
+    position: relative;
+    font-weight: 600;
+}
