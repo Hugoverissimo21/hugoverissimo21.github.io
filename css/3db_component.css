@@ -186,6 +186,10 @@ Posters and still images
   background-image: url(../img/poster03.jpg);
 }
 
+.scene:nth-child(4) .poster {
+	background-image: url(../img/poster03.jpg);
+  }
+
 .scene:nth-child(1) .info header {
 	background-image: url(../img/still01.jpg);
 }
@@ -195,6 +199,10 @@ Posters and still images
 }
 
 .scene:nth-child(3) .info header {
+	background-image: url(../img/still03.jpg);
+}
+
+.scene:nth-child(4) .info header {
 	background-image: url(../img/still03.jpg);
 }
 
