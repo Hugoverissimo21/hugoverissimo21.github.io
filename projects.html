@@ -31,16 +31,16 @@
 				<h1>3D Shading with Box-Shadows <span>A shading effect for 3D transformed elements</span></h1>  
 			</header>
 			<div id="myBtnContainer">
+				<!--meter os botoes todos com o mesmo tamanho independetemente do texto-->
 				<button class="btn active" onclick="filterSelection('all')"> Show all</button>
-				<button class="btn" onclick="filterSelection('cars')"> Cars</button>
-				<button class="btn" onclick="filterSelection('animals')"> Animals</button>
-				<button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
-				<button class="btn" onclick="filterSelection('colors')"> Colors</button>
+				<button class="btn" onclick="filterSelection('python')">Python</button>
+				<button class="btn" onclick="filterSelection('rstudio')">R</button>
+				<button class="btn" onclick="filterSelection('sql')">SQL</button>
 			</div>
 			<div class="wrapper">
 				<ul class="stage clearfix">
 
-					<li class="filterDiv cars scene colors">
+					<li class="scene filterDiv python">
 						<div class="movie" onclick="return true">
 							<div class="poster"></div>
 							<div class="info">
@@ -62,7 +62,7 @@
 						</div>
 					</li>
 
-					<li class="filterDiv fruits scene colors">
+					<li class="scene filterDiv rstudio sql python">
 						<div class="movie" onclick="return true">
 							<div class="poster"></div>
 							<div class="info">
@@ -79,7 +79,7 @@
 						</div>
 					</li>
 
-					<li class="scene filterDiv colors fruits">
+					<li class="scene filterDiv sql">
 						<div class="movie" onclick="return true">
 							<div class="poster"></div>
 							<div class="info">
@@ -96,7 +96,7 @@
 						</div>
 					</li>
 
-					<li class="scene filterDiv animals">
+					<li class="scene filterDiv sql">
 						<div class="movie" onclick="return true">
 							<div class="poster"></div>
 							<div class="info">
