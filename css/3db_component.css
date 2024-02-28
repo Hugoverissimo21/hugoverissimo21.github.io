@@ -115,7 +115,7 @@ Movie information
 	color: #FFF;
 	padding: 7px 10px;
 	font-weight: bold;
-	height: 195px;
+	height: 195px; /*mexer no tamanho da imagem de trás*/
 	background-size: contain;
 	background-repeat: no-repeat;
 	text-shadow: 0px 1px 1px rgba(0,0,0,1);
