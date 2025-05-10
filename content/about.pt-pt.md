@@ -1,25 +1,20 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "Sobre"
+description = "Sobre mim, Hugo Veríssimo."
+date = "2025-05-10"
+aliases = ["about-me", "about-hugo", "contact"]
+author = "Hugo Veríssimo"
 +++
 
-Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+Sou o Hugo Veríssimo, mestrando em Data Science com formação em Matemática Aplicada à Economia e Gestão. Tenho interesse em transformar problemas complexos em soluções analíticas estruturadas — seja através de modelos estatísticos, machine learning ou desenvolvimento full-stack.
 
-O Hugo faz o uso de vários projetos de código aberto incluíndo:
+Ao longo do meu percurso, desenvolvi projetos sobre deteção de fadiga em nadadores, análise de sentimento em notícias financeiras e sistemas de recomendação. Gosto de construir soluções de dados de ponta a ponta — do pré-processamento à implementação — utilizando ferramentas como Python (Pandas, Scikit-learn, Flask), R e Spark.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Valorizo a aprendizagem contínua. Já apresentei trabalhos em conferências nacionais, colaborei em iniciativas de ensino e contribuo para projetos open-source. Os meus interesses centram-se na interseção entre ciência de dados, impacto real e execução técnica rigorosa.
 
-O Hugo é ideal para blogs, sites corporativos, protfólio criativos, revistas online, aplicações de página única ou até sites com milhares de páginas.
+Podes ver alguns dos meus projetos aqui:
+- [Classificação de Fadiga em Nadadores](https://github.com/Hugoverissimo21/SwimML-FatigueMonitor)
+- [Análise de Media das Empresas do PSI-20](https://github.com/Hugoverissimo21/InfoMosaic-sandbox)
+- [Sistemas de Recomendação (MovieLens)](https://github.com/Hugoverissimo21/MLDriven-CollabFilter)
 
-O Hugo é para pessoas que querem cuidar do seu próprio site sem se preocupar com a configuração ambientes complicados, dependências e bancos de dados.
-
-Sites contru;idos com Hugo são extremamente rápidos, seguros e podem ser implantados em qualquer lugar, incluíndo AWS, GitHub Pages, Heroku, Netlify e outros provedores de hospedagem.
-
-Saiba mais e contribua em [GitHub](https://github.com/gohugoio).
+Se quiseres saber mais ou colaborar, contacta-me via [LinkedIn](https://linkedin.com/in/hugoverissimo21) ou [email](mailto:hugoverissimo21@gmail.com).
