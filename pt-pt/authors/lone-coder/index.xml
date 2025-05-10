@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lone Coder on Hugo Veríssimo</title><link>https://hugoverissimo21.github.io/pt-pt/authors/lone-coder/</link><description>Recent content in Lone Coder on Hugo Veríssimo</description><generator>Hugo</generator><language>pt-pt</language><lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugoverissimo21.github.io/pt-pt/authors/lone-coder/index.xml" rel="self" type="application/rss+xml"/><item><title>Mermaid JS support</title><link>https://hugoverissimo21.github.io/pt-pt/projects/mermaid-support/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/mermaid-support/</guid><description>&lt;p>Se quiser usar o &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a> em sua página.
+Use o &lt;a href="https://gohugo.io/content-management/shortcodes/#readout" class="external-link" target="_blank" rel="noopener">shortcode&lt;/a> &lt;code>mermaid&lt;/code> em seus conteúdos Markdown.&lt;/p>
+&lt;div class="mermaid">
+flowchart LR
+
+ A --> B
+
+ B --> C
+
+ C --> D
+
+ D --> B
+
+
+&lt;/div>
+
+&lt;div class="mermaid">
+sequenceDiagram
+participant Alice
+participant Bob
+Alice->>Bob: Hi Bob
+Bob->>Alice: Hi Alice
+
+&lt;/div>
+
+&lt;p>Entro mais exemplos na página do &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a>.&lt;/p></description></item></channel></rss>

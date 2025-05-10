@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Html on Hugo Veríssimo</title><link>https://hugoverissimo21.github.io/pt-pt/tags/html/</link><description>Recent content in Html on Hugo Veríssimo</description><generator>Hugo</generator><language>pt-pt</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugoverissimo21.github.io/pt-pt/tags/html/index.xml" rel="self" type="application/rss+xml"/><item><title>Guia de Sintaxe Markdown</title><link>https://hugoverissimo21.github.io/pt-pt/projects/markdown-syntax/</link><pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/markdown-syntax/</guid><description>&lt;p>Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p></description></item><item><title>Conteúdo Rico</title><link>https://hugoverissimo21.github.io/pt-pt/projects/rich-content/</link><pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/rich-content/</guid><description>&lt;p>O Hugo vem com vários &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes" class="external-link" target="_blank" rel="noopener">Shortcodes Internos&lt;/a> para conteúdo rico, assim como uma &lt;a href="https://gohugo.io/about/hugo-and-gdpr/" class="external-link" target="_blank" rel="noopener">Configuração de Privacidade&lt;/a> e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho">&lt;/i>
+ &lt;span class="sr-only">Link para o cabeçalho&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>Mais Conteúdo Rico</title><link>https://hugoverissimo21.github.io/pt-pt/projects/more-rich-content/</link><pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/more-rich-content/</guid><description>&lt;p>O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p>
+&lt;h2 id="">
+ 
+ &lt;a class="heading-link" href="#">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho">&lt;/i>
+ &lt;span class="sr-only">Link para o cabeçalho&lt;/span>
+ &lt;/a>
+&lt;/h2></description></item><item><title>Configuração de Equações Matemáticas</title><link>https://hugoverissimo21.github.io/pt-pt/projects/math-typesetting/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/math-typesetting/</guid><description>&lt;p>Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p></description></item><item><title>HTML and CSS only tabs</title><link>https://hugoverissimo21.github.io/pt-pt/projects/html-and-css-only-tabs/</link><pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/html-and-css-only-tabs/</guid><description>&lt;h2 id="shortcodes">
+ Shortcodes
+ &lt;a class="heading-link" href="#shortcodes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho">&lt;/i>
+ &lt;span class="sr-only">Link para o cabeçalho&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>O seguinte conteúdo:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Hello&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Hello World!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">tab&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Goodbye&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Goodbye Everybody!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tab&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">tabgroup&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Irá gerar:&lt;/p>
+
+
+
+
+
+&lt;div class="tabs tabs-left">
+ 
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-0:checked ~ .tab-content-0-0 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-0" checked/>
+&lt;label for="tab-0-0" class="tab-label">Hello&lt;/label>
+&lt;div class="tab-content tab-content-0-0">
+ Hello World!
+&lt;/div>
+
+
+
+
+
+
+
+
+&lt;style>
+ .tabs input#tab-0-1:checked ~ .tab-content-0-1 {
+ display: block;
+ }
+&lt;/style>
+
+&lt;input type="radio" class="tab-input" name="tab-select-0" id="tab-0-1" />
+&lt;label for="tab-0-1" class="tab-label">Goodbye&lt;/label>
+&lt;div class="tab-content tab-content-0-1">
+ Goodbye Everybody!
+&lt;/div>
+
+
+
+
+&lt;/div>
+
+
+
+&lt;h2 id="alinhamento-à-direita">
+ Alinhamento à direita
+ &lt;a class="heading-link" href="#alinhamento-%c3%a0-direita">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho">&lt;/i>
+ &lt;span class="sr-only">Link para o cabeçalho&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Você também pode alinhas as tabs à direita:&lt;/p></description></item><item><title>Mermaid JS support</title><link>https://hugoverissimo21.github.io/pt-pt/projects/mermaid-support/</link><pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/mermaid-support/</guid><description>&lt;p>Se quiser usar o &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a> em sua página.
+Use o &lt;a href="https://gohugo.io/content-management/shortcodes/#readout" class="external-link" target="_blank" rel="noopener">shortcode&lt;/a> &lt;code>mermaid&lt;/code> em seus conteúdos Markdown.&lt;/p>
+&lt;div class="mermaid">
+flowchart LR
+
+ A --> B
+
+ B --> C
+
+ C --> D
+
+ D --> B
+
+
+&lt;/div>
+
+&lt;div class="mermaid">
+sequenceDiagram
+participant Alice
+participant Bob
+Alice->>Bob: Hi Bob
+Bob->>Alice: Hi Alice
+
+&lt;/div>
+
+&lt;p>Entro mais exemplos na página do &lt;a href="https://mermaid-js.github.io/mermaid/#/" class="external-link" target="_blank" rel="noopener">Mermaid-JS&lt;/a>.&lt;/p></description></item></channel></rss>
