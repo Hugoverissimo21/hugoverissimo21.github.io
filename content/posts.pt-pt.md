@@ -1,6 +1,6 @@
 +++
-title = "Projetos"
-slug = "projects"
+title = "Blog PT"
+slug = "posts"
 +++
 
 Nada para ver aqui.. Circulando!
