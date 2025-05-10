@@ -171,6 +171,12 @@ url = "https://www.linkedin.com/in/hugoverissimo21/"
 # weight = 5
 # url = "https://medium.com/@johndoe"
 
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 5
+url = "mailto:hugoverissimo21@gmail.com"
+
 [languages.en]
 languageName = ":uk:"
 
@@ -188,11 +194,6 @@ url = "posts/"
 name = "Projects"
 weight = 3
 url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
 
 [languages.pt-pt]
 languageName = ":portugal:"
@@ -218,8 +219,3 @@ url = "posts/"
 name = "Projetos"
 weight = 3
 url = "projects/"
-
-[[languages.pt-pt.menu.main]]
-name = "Contacto"
-weight = 5
-url = "contact/"
