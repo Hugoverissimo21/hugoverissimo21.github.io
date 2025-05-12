@@ -1,13 +1,13 @@
 +++
-authors = ["Hugo Veríssimo", "Hugo2"]
+authors = ["Hugo Veríssimo"]
 title = "lupadigital25"
-date = "2023-07-07"
-repository = "https://github.com/LupaDigital25/app-docker"
-description = "Um projeto..."
+date = "2025-05-06"
+repository = "https://github.com/LupaDigital25"
+description = "..."
 tags = [
     "python",
-    "markdown",
+    "...",
 ]
 +++
 
-Emojis podem ser ativados em um projeto Hugo de diversar formas.
+...

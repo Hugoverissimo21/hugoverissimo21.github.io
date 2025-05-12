@@ -12,17 +12,19 @@ tags = [
 
 Este projeto é focado na aplicação de Machine Learning para estimar níveis de fadiga em nadadores, com o objetivo de prevenir lesões por sobrecarga.
 
-Este projeto envolve:
+foi feita a coleta de dados por parte de uma equipa de natacao local, sobre varios dos seus atletas
 
-- Aquisição e preparação de dados fisiológicos e de treino.
+um pre processamento dos dados para garantir a sua qualidade e integridade e possiblidade de aplicacao de algoritmos de machine learning
 
-- Modelação com algoritmos supervisionados.
+realaizacao de feature engineering para extrair variaveis relevantes dos dados brutos, nomeadamente o uso de EWMA
 
-- Avaliação de desempenho com métricas como accuracy, precision, recall e F1-score.
+foi usado um Support Vector Machine (SVM), logistic regression e decision tree para classificar os dados em 3 classes de fadiga
 
-- Validação cruzada e otimização de hiperparâmetros.
+para cada modelo foi usado 5cv para a escolha dos melhores hiperparametros e a escolha do modelo final
 
-..... FALTA FALAR DE CV E HYPERPARAMETER TUNING E ISSO TD MAIS DELTAHADEMTEN
+cada modelo final foi avalidado tendo em conta a sua performance em termos de accuracy, precision, recall e f1-score e confusion score e learning curve garantindo a sua robustez e fiabilidade
+
+o projeto foi apresentado na conferencia ICJNN25 meter um comprovativo ou assim? ver se o nome esta certo
 
 <iframe src="https://hugoverissimo21.github.io/SwimML-FatigueMonitor/report.pdf"
         width="100%"
