@@ -24,7 +24,9 @@ para cada modelo foi usado 5cv para a escolha dos melhores hiperparametros e a e
 
 cada modelo final foi avalidado tendo em conta a sua performance em termos de accuracy, precision, recall e f1-score e confusion score e learning curve garantindo a sua robustez e fiabilidade
 
-o projeto foi apresentado na conferencia ICJNN25 meter um comprovativo ou assim? ver se o nome esta certo
+o projeto foi apresentado na conferencia \/ meter um comprovativo ou assim? ver se o nome esta certo
+
+IJCNN 2025 - https://confcats-siteplex.s3.us-east-1.amazonaws.com/ijcnn25/IJCNN_2025_Program_77b2d8aef4.pdf#page=51
 
 <iframe src="https://hugoverissimo21.github.io/SwimML-FatigueMonitor/report.pdf"
         width="100%"

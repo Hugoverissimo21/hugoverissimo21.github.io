@@ -11,3 +11,7 @@ tags = [
 +++
 
 ...
+
+...
+
+forecast de eletricidade em espanha - trabalho de series temporais
