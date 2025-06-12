@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Hugo Veríssimo</title><link>https://hugoverissimo21.github.io/pt-pt/projects/</link><description>Recent content in Projects on Hugo Veríssimo</description><generator>Hugo</generator><language>pt-pt</language><lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hugoverissimo21.github.io/pt-pt/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--cpianomalies/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--cpianomalies/</guid><description>&lt;p>CPIAnomalyDetector caa02 trabalho tema v00 que foi lixo&lt;/p>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--electricityforecast/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--electricityforecast/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;p>forecast de eletricidade em espanha - trabalho de series temporais&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--finphrasebank/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--finphrasebank/</guid><description>&lt;p>&lt;a href="https://github.com/Hugoverissimo21/finphrasebank-sentiment" class="external-link" target="_blank" rel="noopener">https://github.com/Hugoverissimo21/finphrasebank-sentiment&lt;/a>&lt;/p>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--lshrecommender/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--lshrecommender/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;p>mdle03b - lsh recommender system for big data in movie data ratings&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--lupadigital25/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--lupadigital25/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;p>lupa digital do arquivo .pt&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--smartworkbench/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--smartworkbench/</guid><description>&lt;p>&amp;hellip;&lt;/p>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;p>trabalho do seminario&lt;/p></description></item><item><title>lupadigital25</title><link>https://hugoverissimo21.github.io/pt-pt/projects/--sortingalgorithms/</link><pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/--sortingalgorithms/</guid><description>&lt;p>trabalho de oc&lt;/p>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Contagem de Painéis Fotovoltaicos e Solares a partir de Imagens Aéreas</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-solarpanel-dlcounter/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-solarpanel-dlcounter/</guid><description>&lt;p>Este projeto tem como objetivo a contagem de painéis fotovoltaicos e solares a partir de imagens aéreas, utilizando técnicas de Deep Learning e Computer Vision. O projeto foi desenvolvido no ambito da competicao Zindi lacuna, que deu todas as imagens relativas a paneis em madagascar&lt;/p>
+&lt;p>envolveu a limpeza e pre-processamento dos dados, incluindo a correcao de varios poligonos&lt;/p>
+&lt;div style="display: flex; align-items: center; gap: 20px;">
+ &lt;div style="flex: 1;">
+ &lt;p>criacao de modelos hibridos, combinando ResNet, EfficientNet e DenseNet para extrair features de imagens com attention-head para juntar a features extraids da metadata da imagem para posterior regressao no numero de cada tipo de paineis&lt;/p></description></item><item><title>Pesquisa Quantitativa @ JPMorgan Chase &amp; Co.</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-jpm-quantitative-models/</link><pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-jpm-quantitative-models/</guid><description>&lt;p>This repository contains the tasks done for the &lt;a href="https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc" class="external-link" target="_blank" rel="noopener">Quantitative Research Virtual Internship at JPMorgan Chase &amp;amp; Co.&lt;/a>&lt;/p>
+&lt;h2 id="overview">
+ Overview
+ &lt;a class="heading-link" href="#overview">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho">&lt;/i>
+ &lt;span class="sr-only">Link para o cabeçalho&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>This project leverages quantitative research methods, machine learning, and data analysis to address challenges in the financial and energy sectors. The analysis focuses on developing pricing models for natural gas contracts, estimating loan default probabilities, and predicting losses for banks. Key methods such as K-means clustering, machine learning techniques, and time series decomposition were employed to provide actionable insights&lt;/p></description></item><item><title>Sistemas de Recomendação</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-mldriven-collabfilter/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-mldriven-collabfilter/</guid><description>&lt;p>projeto que envolveu a analise exploratorio de um dataset de ratings de filmes, com o objetivo de prever a nota que um utilizador daria a um filme, tendo em conta as notas dadas por outros utilizadores.&lt;/p>
+&lt;p>os modelos utilizados foram duas regressoes lineares construidas a mao para a previsao de ragings, uma tendo em conta os utilizadores e os seus ratings nos diferentes e outra tendo em conta isso e a metadata fo filme&lt;/p></description></item><item><title>Análise de Palavras Frequentes em Livros</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-frequentwordfinder/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-frequentwordfinder/</guid><description>&lt;p>atraves da livraria online Project Gutenberg, que disponibiliza livros em domínio público, foram selecionados 3 traducoes do livro pinoquio, em ingles, italiano e finlandes&lt;/p>
+&lt;p>o objetivo foi atraves da utilizacao de algoritmos de busca de palavras frequentes, encontrar as palavras mais frequentes em cada um dos livros, e comparar os resultados entre os 3 livros.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>contadores exatos&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>contadores probabilisticos&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>contadores space-saving&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>foram depois comparados os resultados obtidos entre os contadores exatos e os contadores probabilisticos, e entre os contadores exatos e os contadores space-saving para verificar a precisão e eficiência de memoria dos algoritmos.&lt;/p></description></item><item><title>Análise Mediática de Empresas do PSI-20</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-infomosaic/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-infomosaic/</guid><description>&lt;p>The primary goal of this project is to analyze media coverage of companies listed on the PSI-20 index. By leveraging various data analysis, machine learning, and visualization techniques, the project aims to extract valuable insights regarding the public perception and sentiment around these companies.&lt;/p>
+&lt;p>The specific objectives and features of the project are:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Sentiment Analysis&lt;/strong>&lt;br>
+Evaluate the sentiment of news articles and media coverage to determine whether specific keywords associated with PSI-20 companies have a positive or negative impact on public perception.&lt;/p></description></item><item><title>Classificação de Fadiga em Atletas de Natação</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-swimml-fatiguemonitor/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-swimml-fatiguemonitor/</guid><description>&lt;p>Este projeto é focado na aplicação de Machine Learning para estimar níveis de fadiga em nadadores, com o objetivo de prevenir lesões por sobrecarga.&lt;/p>
+&lt;p>foi feita a coleta de dados por parte de uma equipa de natacao local, sobre varios dos seus atletas&lt;/p>
+&lt;p>um pre processamento dos dados para garantir a sua qualidade e integridade e possiblidade de aplicacao de algoritmos de machine learning&lt;/p>
+&lt;p>realaizacao de feature engineering para extrair variaveis relevantes dos dados brutos, nomeadamente o uso de EWMA&lt;/p></description></item><item><title>Problema do Corte-Máximo (Max-Cut)</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-max-weighted-cut/</link><pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-max-weighted-cut/</guid><description>&lt;p>O problema do corte-máximo (Max-Cut) é um problema NP-difícil que consiste em dividir um grafo em dois subconjuntos de modo a maximizar o peso das arestas cortadas. Este projeto tem como objetivo resolver o problema do corte-máximo utilizando algoritmos determinísticos e estocásticos, como o algoritmo de Simulated Annealing.&lt;/p>
+&lt;p>O projeto é dividido em duas partes principais:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Algoritmos Determinísticos&lt;/strong>: Implementação de algoritmos clássicos para resolver o problema do corte-máximo:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>1&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>3&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Algoritmos Estocásticos&lt;/strong>: Implementação de algoritmos estocásticos para encontrar soluções aproximadas para o problema do corte-máximo:&lt;/p></description></item></channel></rss>

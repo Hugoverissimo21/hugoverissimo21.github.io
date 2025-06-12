@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Algorithms on Hugo Veríssimo</title><link>https://hugoverissimo21.github.io/pt-pt/tags/algorithms/</link><description>Recent content in Algorithms on Hugo Veríssimo</description><generator>Hugo</generator><language>pt-pt</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hugoverissimo21.github.io/pt-pt/tags/algorithms/index.xml" rel="self" type="application/rss+xml"/><item><title>Análise de Palavras Frequentes em Livros</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-frequentwordfinder/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-frequentwordfinder/</guid><description>&lt;p>atraves da livraria online Project Gutenberg, que disponibiliza livros em domínio público, foram selecionados 3 traducoes do livro pinoquio, em ingles, italiano e finlandes&lt;/p>
+&lt;p>o objetivo foi atraves da utilizacao de algoritmos de busca de palavras frequentes, encontrar as palavras mais frequentes em cada um dos livros, e comparar os resultados entre os 3 livros.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>contadores exatos&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>contadores probabilisticos&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>contadores space-saving&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>foram depois comparados os resultados obtidos entre os contadores exatos e os contadores probabilisticos, e entre os contadores exatos e os contadores space-saving para verificar a precisão e eficiência de memoria dos algoritmos.&lt;/p></description></item><item><title>Problema do Corte-Máximo (Max-Cut)</title><link>https://hugoverissimo21.github.io/pt-pt/projects/-max-weighted-cut/</link><pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate><guid>https://hugoverissimo21.github.io/pt-pt/projects/-max-weighted-cut/</guid><description>&lt;p>O problema do corte-máximo (Max-Cut) é um problema NP-difícil que consiste em dividir um grafo em dois subconjuntos de modo a maximizar o peso das arestas cortadas. Este projeto tem como objetivo resolver o problema do corte-máximo utilizando algoritmos determinísticos e estocásticos, como o algoritmo de Simulated Annealing.&lt;/p>
+&lt;p>O projeto é dividido em duas partes principais:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Algoritmos Determinísticos&lt;/strong>: Implementação de algoritmos clássicos para resolver o problema do corte-máximo:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>1&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>2&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>3&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Algoritmos Estocásticos&lt;/strong>: Implementação de algoritmos estocásticos para encontrar soluções aproximadas para o problema do corte-máximo:&lt;/p></description></item></channel></rss>
