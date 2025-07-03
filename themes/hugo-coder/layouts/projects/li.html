@@ -1,0 +1,4 @@
+<li>
+  <span class="date" style="width:auto; display:block; flex:none;">{{ .Date | time.Format "2006" }}</span>
+  <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Description }}</a>
+</li>
